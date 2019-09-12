@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.one{
+	background:url(../img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	float: left;
+}
+
+.two{
+	width: 64%;
+	float: left;
+	margin:35px 0 35px 0; 
+	color: #fff;
+}
+
+.two h2{
+	padding: 3px;
+}
+.two h3{
+	padding: 6px;
+}
+
+.two ul{
+	padding: 10px;
+}
+
+.two ul li{
+	list-style: circle;
+}
+
+.btn{
+	background-color: #3f74e8;
+	color: #fff;
+	border-radius: 40%;
+	padding: 3px;
+	margin: 4px;
+}
+
+.three{
+	width: 35%;
+	float: right;
+	background-color: #3f74e8;
+	margin:35px 0 50px 0; 
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+}
+
+.form-control{
+	width: 96%;
+	float: left;
+	background-color: #fff;
+	color: #fff;
+	padding: 4px;
+	margin: 3px;
+}
+
+.btn-one{
+	background-color: purple;
+	width: 98%;
+	margin: 5px 0;
+	color: #fff;
+}
